@@ -1,0 +1,16 @@
+(package
+ (name benchmark)
+ (version 0.1)
+ (license "BSD")
+ (authors "Arthur Maciel")
+ (maintainers "Arthur Maciel")
+ (description "A very simple benchmark library")
+ (tags "benchmark")
+ (docs "https://github.com/cyclone-scheme/winds/wiki/benchmark")
+ (test "test.scm")
+ (dependencies ())
+ (test-dependencies ())
+ (foreign-dependencies ())
+ (library
+     (name (cyclone benchmark))
+   (description "A very simple benchmark library")))
