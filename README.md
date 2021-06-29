@@ -47,7 +47,7 @@ Returns seconds elapsed of a monotonic clock. Used by `elapsed` to calculate pro
       (+ (fib (- n 1)) (fib (- n 2)))))
 
 (elapsed (fib 20))
-;; => 0.000001323  (in seconds)
+;; => 0.000"0.1.0"323  (in seconds)
 ```
 
 ## Author(s)
@@ -57,7 +57,7 @@ Arthur Maciel
 Arthur Maciel
 
 ## Version 
-0.1
+"0.1.0"
 
 ## License 
 BSD

@@ -1,6 +1,6 @@
 (package
  (name benchmark)
- (version 0.1)
+ (version "0.1.0")
  (license "BSD")
  (authors "Arthur Maciel")
  (maintainers "Arthur Maciel")
